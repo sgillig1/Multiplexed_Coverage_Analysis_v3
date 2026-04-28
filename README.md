@@ -6,6 +6,8 @@
 
 This software was developed in the [Lutz Lab](https://www.lutzlab.org) at the University of Washington.
 
+Analysis as a part of publication [https://pubs.acs.org/doi/10.1021/acs.analchem.4c05583](Development of a Highly Multiplexed RT-LAMP Assay for Coverage of Genetic Sequence Diversity).
+
 
 ## Workflow
 
